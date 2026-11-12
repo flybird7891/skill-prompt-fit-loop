@@ -21,8 +21,8 @@
 
 可以通过以下方式获取 `prompt-fit-loop` 文件夹：
 
-- 在仓库的 `Releases` 页面下载版本压缩包。
-- 点击 `Code`，选择 `Download ZIP`，解压后取得 `prompt-fit-loop` 文件夹。
+- 在仓库的 Releases 页面下载版本压缩包。
+- 点击仓库页面的 Code 按钮，选择 Download ZIP，解压后取得 prompt-fit-loop 文件夹。
 - 使用 Git Clone 获取完整仓库。
 
 实际使用的 Skill 位于：
